@@ -1,6 +1,6 @@
 # GifGen
 
-AI SaaS to generate GIFs
+AI SaaS to generate GIFs. Users get 5 free generation after which they have to upgrade to pro plan to buy more credits. 
 
 ## 📺 Demo Video
 
